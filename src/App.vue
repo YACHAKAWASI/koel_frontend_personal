@@ -1,8 +1,8 @@
 <template>
-  <Login />
+  <Dashboard />
 </template>
 
 <script setup>
-import Login from './components/Login.vue'
+import Dashboard from './views/Dashboard.vue'
 </script>
 
