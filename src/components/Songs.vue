@@ -39,4 +39,3 @@ function playSong(song) {
   store.play(song)
 }
 </script>
-

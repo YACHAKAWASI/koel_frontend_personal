@@ -18,9 +18,24 @@
 import { store } from '../store.js'
 
 const songs = [
-  { id: 1, title: 'Shape of You', artist: 'Ed Sheeran' },
-  { id: 2, title: 'Blinding Lights', artist: 'The Weeknd' },
-  { id: 3, title: 'Levitating', artist: 'Dua Lipa' }
+  {
+    id: 1,
+    title: 'Shape of You',
+    artist: 'Ed Sheeran',
+    src: '/audio/shape-of-you.mp3'
+  },
+  {
+    id: 2,
+    title: 'Blinding Lights',
+    artist: 'The Weeknd',
+    src: '/audio/blinding-lights.mp3'
+  },
+  {
+    id: 3,
+    title: 'Levitating',
+    artist: 'Dua Lipa',
+    src: '/audio/levitating.mp3'
+  }
 ]
 </script>
 
